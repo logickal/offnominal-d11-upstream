@@ -1,0 +1,5 @@
+name: Demo Block
+type: module
+description: 'A simple demo block with configurable text.'
+core_version_requirement: ^10 || ^11
+package: Custom
